@@ -16,8 +16,8 @@ This project is a blog website template featuring:
 advanced-blog/
 ├── index.html              # Main HTML file
 ├── css/
-│   ├── style.min.css       # Main stylesheet (minified)
-│   └── style.css           # Development version (readable)
+│   ├── style.min.css       # Main stylesheet (minified for production)
+│   └── style.css           # Development version (readable for editing)
 └── README.md               # Project documentation
 
 ## Setup and Usage
