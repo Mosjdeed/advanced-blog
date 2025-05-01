@@ -12,13 +12,13 @@ This project is a blog website template featuring:
 - "Back to Top" button for better UX
 
 ## Project Structure
-advanced-blog/
-├── index.html # Main HTML file
-├── css/
-│ └── style.min.css # Main stylesheet (minified)
-│ └── style.css # Development version (readable)
-└── README.md # Project documentation
 
+advanced-blog/
+├── index.html              # Main HTML file
+├── css/
+│   ├── style.min.css       # Main stylesheet (minified)
+│   └── style.css           # Development version (readable)
+└── README.md               # Project documentation
 
 ## Setup and Usage
 
