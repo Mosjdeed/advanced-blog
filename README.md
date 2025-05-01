@@ -14,11 +14,14 @@ This project is a blog website template featuring:
 ## Project Structure
 
 advanced-blog/
-├── index.html              # Main HTML file
-├── css/
-│   ├── style.min.css       # Main stylesheet (minified for production)
-│   └── style.css           # Development version (readable for editing)
-└── README.md               # Project documentation
+|
+|-- index.html           # Main HTML file
+|
+|-- css/
+|   |-- style.min.css    # Main stylesheet (minified for production)
+|   |-- style.css        # Development version (readable for editing)
+|
+|-- README.md            # Project documentation
 
 ## Setup and Usage
 
