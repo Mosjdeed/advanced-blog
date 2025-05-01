@@ -13,12 +13,12 @@ This project is a blog website template featuring:
 
 ## Project Structure
 
-advanced-blog/ - Root project folder
-index.html - Main HTML file
-css/ - CSS folder
-  style.min.css - Minified stylesheet for production
-  style.css - Readable stylesheet for development
-README.md - Project documentation
+- advanced-blog/
+- ├── index.html              # Main HTML file
+- ├── css/
+- │   ├── style.min.css       # Main stylesheet (minified for production)
+- │   └── style.css           # Development version (readable for editing)
+- └── README.md               # Project documentation
 
 ## Setup and Usage
 
